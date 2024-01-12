@@ -1,0 +1,59 @@
+.banner {
+    background-color: white;
+    background: url(../b9-a1/resources/Banner\Image.png);
+    background-position: center;
+    margin: 50px 100px;
+    background-size: 100%; 
+    border-radius: 16px;
+    flex-shrink: 0;
+    background-repeat: no-repeat;
+    
+}
+.banner-content {
+    color: aliceblue;
+    text-align: center;
+    font-family: Merriweather; 
+    padding: 85px;
+    font-size: large;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+
+.heading {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+}
+.bold {
+    
+    font-family: Merriweather;
+    font-size: 72px;
+    
+    font-weight: 900;
+    line-height: 95px; 
+}
+.content {
+    text-align: center;
+    font-family: inter;
+    font-size: 32px;
+    font-weight: 500; 
+    color: darkslateblue;
+}
+.off {
+    
+}
+.p1 {
+    
+    font-size: 20px;
+    font-weight: 400;
+}
+.all {
+    
+    color: #070211;
+    font-size: 26px;
+}
+.wel {
+    background-color: white;
+    background-image: url(../b9-a1/resources/Vectorrr.png);  
+    background-position: center;
+}
